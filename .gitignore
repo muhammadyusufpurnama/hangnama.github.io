@@ -1,0 +1,7 @@
+cd D:\muhammadyusufpurnama.github.io
+@"
+my-nuxt-store/node_modules/
+my-nuxt-store/.nuxt/
+my-nuxt-store/.output/
+.output/
+"@ | Out-File -Encoding utf8 .gitignore
